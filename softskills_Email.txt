@@ -1,0 +1,95 @@
+ 		1.Resignation Email
+
+Subject: Resignation Notice
+
+Dear Mr. Rahul Baghel,
+
+I hope you're doing well.
+
+I am writing to formally resign from my position as a Java Developer at TCS. This decision was not an easy one, as I have truly enjoyed being a part of the team and working under your leadership.
+
+I am incredibly grateful for the opportunities, support, and valuable experiences I have gained during my time at TCS. It has been a pleasure contributing to the team, and I sincerely appreciate your guidance and mentorship.
+
+To ensure a smooth transition, I will do my best to complete any pending tasks and assist in the handover process. Please let me know how I can help during this period.
+
+Thank you once again for everything. I truly appreciate my time here and hope to stay in touch. Wishing you and the company continued success.
+
+Best regards,
+Rohit
+
+
+ 		2.Asking For Rising Salary
+
+Subject: Request for Salary Review
+
+Dear Bhavesh Sir,
+
+I hope you're doing well.
+
+I wanted to take a moment to discuss the possibility of a salary review. Over the past two years, I have been fully committed to contributing to the company's growth and success. I truly appreciate the opportunities I’ve had to develop my skills and take on new responsibilities.
+
+Considering my contributions, dedication, and the value I bring to the team, I would like to explore the possibility of a salary adjustment that reflects my performance and ongoing commitment. I would greatly appreciate the opportunity to discuss this further at a time that is convenient for you.
+
+Please let me know when we could schedule a meeting to go over this request. Thank you for your time and consideration—I genuinely appreciate your support.
+
+Best regards,
+Rohit (Backend Developer)
+
+
+
+
+                     3.	Thank you Email
+
+Subject : A Thank You
+
+Dear Jigar Sir,
+
+I hope you're doing well!
+
+My name is Nikhil, I just wanted to take a moment to sincerely thank you for your unwavering support, guidance, and generosity. Your time and effort truly mean a lot to me, and I deeply appreciate all the help you've extended.
+It’s always a pleasure working with you, and I genuinely value your insights and advice. Your kindness and willingness to assist never go unnoticed, and I feel grateful to have someone like you to learn from.
+
+Thanks again, and wishing you all the best! 
+
+Best regards,
+ Rohit
+
+
+                    4.	Letter of Apology
+
+Subject: Apologies for the Delay
+
+Dear Bhavesh Sir,
+
+I hope you’re doing well.
+
+I want to sincerely apologize for the delay in completing a task. I understand that this may have caused inconvenience, and I take full responsibility for not meeting expectations on time.
+
+It was never my intention to cause any disruption, and I truly regret any difficulties this may have caused. Moving forward, I will ensure better time management and take the necessary steps to prevent such delays in the future.
+
+Please let me know if there’s anything I can do to make up for this. I truly appreciate your understanding and guidance.
+
+Best regards,
+Rohit(Backend Developer)
+
+
+                   
+  
+                   
+
+                     5.	Resignation Email
+
+Subject: Friendly Reminder: Upcoming Project Meeting
+
+Dear Rohit,
+
+I hope you're doing well.
+
+This is a friendly reminder about our scheduled project meeting on 12 at 1:30. We will be discussing key updates, progress, and next steps, so your presence would be greatly appreciated.
+
+Please let me know if you have any conflicts or if there’s anything specific you’d like to add to the agenda. Looking forward to your participation.
+
+Thank you for your time and cooperation!
+
+Best regards,
+Rahul
